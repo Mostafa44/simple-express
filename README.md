@@ -1,2 +1,3 @@
 # simple-express
-A simple exercise on creating a reverse proxy 
+Part of Udacity -Cloud Developer Nano Degree
+Create a reverse proxy using Nginx in Docker that routes traffic to Simple Express.
